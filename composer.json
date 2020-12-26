@@ -1,0 +1,12 @@
+{
+    "name": "andrewk74/adump",
+    "require": {
+        "php": ">=5.4.0"
+        
+    },
+        "autoload": {
+        "psr-4": {
+            "andrewk74\\dump\\": "src/"
+        }
+    }
+}
