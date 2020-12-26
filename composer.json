@@ -1,0 +1,13 @@
+{
+    "name": "andrewk74/adump",
+    "require": {
+        "php": ">=5.4.0"
+        
+    },
+    "license": "MIT",
+        "autoload": {
+        "psr-4": {
+            "andrewk74\\dump\\": "src/"
+        }
+    }
+}
