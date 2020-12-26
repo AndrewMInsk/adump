@@ -2,7 +2,7 @@
 
 namespace andrewk74\adump;
 
-class P
+class Print
 {
     static function pretty_print($in, $opened = true)
     {
